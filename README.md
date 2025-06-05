@@ -3,7 +3,7 @@ My public journal of learning MLOps and more..
 
 # 📚 My MLOps Learning Journey
 
-Welcome to my Machine Learning Operations (MLOps) learning repository! This project documents my step-by-step journey as I learn and apply MLOps concepts, tools, and best practices. I believe in **learning by doing** and sharing knowledge publicly to stay accountable and help others.
+Welcome to my Machine Learning Operations (MLOps) learning repository! This is my step-by-step journey as I learn and apply MLOps concepts, tools, and best practices. I believe in **learning by doing** and sharing knowledge publicly to stay accountable and help others.
 
 ---
 
